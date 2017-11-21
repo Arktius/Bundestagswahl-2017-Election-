@@ -4,7 +4,7 @@ Created on Wed Oct 11 20:23:52 2017
 
 @author: Denis Baskan
 
-Task:
+Task2:
 Displays a bar chart of the Zweitstimmen result of the elections. Uses pyplot to draw the diagram.
 
 The diagram looks similar to https://www.bundeswahlleiter.de/bundestagswahlen/2017/ergebnisse.html.
