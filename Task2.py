@@ -135,10 +135,11 @@ for i in range(0,ind.size):
     plt.text(ind[i],votes2['Percentage'][i]+0.5,round(votes2['Percentage'][i], ndigits = 1))
 
 
+#save plot
+plt.savefig('Diagram.png',dpi = 900) #dpi is the resolution
+
 print('Task 2:')
 #show chart
 plt.show()
 
-#save plot
-plt.savefig('Diagram.png',dpi = 900) 
 
