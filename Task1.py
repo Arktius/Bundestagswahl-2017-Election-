@@ -63,3 +63,5 @@ result = result.reset_index(drop = True)
 
 #CSV Output
 print(result.to_csv(sep = ';',index = False))
+#save as csv file
+print(result.to_csv(path_or_buf = 'result.csv',sep = ';',index = False))
