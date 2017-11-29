@@ -17,6 +17,7 @@ The diagram looks similar to https://www.bundeswahlleiter.de/bundestagswahlen/20
 Uses color codes for the parties, and combines every party below 5% into Sonstige.
 Displays the numeric values at the top of the bar.
 
+![alt text](https://github.com/Arktius/Bundestagswahl-2017-Election-/blob/master/Diagram.png)
 
 Filename: Diagram.png
 
